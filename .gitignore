@@ -1,0 +1,20 @@
+# Qt Creator layout and user settings
+*.user
+*.user.*
+.qtcreator/
+.qmake.stash
+
+# Compiled Object and Binary files
+*.o
+*.obj
+*.slo
+*.lo
+Makefile
+
+# Build directories
+build*/
+cmake-build*/
+out/
+
+# Target Datasets (Optional: hidden if datasets are heavy)
+# dataset/
