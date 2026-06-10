@@ -66,6 +66,21 @@ $$\text{TPR} = \frac{\text{TP}}{\text{TP} + \text{FN}}, \quad \text{FPR} = \frac
 
 ---
 
+## Application Output Gallery
+
+### 1. Cascade-Based Face Detection Results
+* **Facial Region of Interest (ROI) Extraction (Grayscale & Color):**
+<img width="1502" height="913" alt="image" src="https://github.com/user-attachments/assets/98a196a9-4d5b-4cc4-8819-60a944a707d8" />
+
+### 2. PCA Eigenfaces & Feature Subspaces
+* **Calculated Mean Face & Top Shaded Eigenfaces:**
+<img width="1502" height="913" alt="image" src="https://github.com/user-attachments/assets/5dfa5662-d433-47c2-9753-19d9a715daf6" />
+
+### 3. Biometric Performance & Statistical Analytics
+* **Dynamic Distance Evaluation and Live ROC Curve Plotting:**
+<img width="1502" height="913" alt="image" src="https://github.com/user-attachments/assets/ff72d0ca-7495-417c-aefd-2ab219588158" />
+
+---
 ## Repository Directory Tree
 
 ```text
@@ -99,7 +114,7 @@ Face-Detection-Recognition-PCA-Studio/
 1. Clone the repository and navigate into the source root:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Face-Detection-Recognition-PCA-Studio.git](https://github.com/YOUR_USERNAME/Face-Detection-Recognition-PCA-Studio.git)
+git clone [https://github.com/lyan2003/Face-Detection-Recognition-PCA-Studio.git](https://github.com/lyan2003/Face-Detection-Recognition-PCA-Studio.git)
 cd Face-Detection-Recognition-PCA-Studio
 
 ```
