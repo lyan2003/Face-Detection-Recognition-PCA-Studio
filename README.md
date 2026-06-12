@@ -1,5 +1,7 @@
 # Face Detection & Eigenfaces Recognition Studio
 
+>  **Note:** This project was originally developed on **May 5, 2026**, as part of the university curriculum. It has been structurally refactored and migrated here to serve as a public portfolio showcase.
+
 A cross-platform, high-performance C++ computer vision application engineered utilizing the Qt Framework and OpenCV core matrix representations. This toolkit delivers an end-to-end analytical pipeline for facial feature extraction, real-time cascade-based face detection, dimensionality reduction via Principal Component Analysis (PCA/Eigenfaces), and statistical performance evaluation utilizing Receiver Operating Characteristic (ROC) curve metrics.
 
 ---
